@@ -51,6 +51,7 @@
 [457533275083112461] bumsnudl#0974
 [468534873335005204] Lord Hans#3121
 [471667243277746187] WeNiNed#9694
+[471677473558495232] schwingaa (vip_from_ghana)
 [474742754002599948] leyla‘#8922 (leylaleylaleylaleyla)
 [476837705083256836] drfunkensteyn (knackfrosch_)
 [487184272877420544] Rooter#9205
@@ -136,6 +137,7 @@
 [1000939924033380502] DerHeisseOpa#1207 (derheisseopa_)
 [1008828618320916622] UnendlichSauer#3817 (unendlich_sauer)
 [1009139775363625032] Lizard#1337
+[1019996987170500709] Abdi the Duck (abschwaten)
 [1024233213469675560] martinpunkt
 [1030095065936306227] brringuwu
 [1030326192072564757] chantizwiet#2463 (kompetentundfreundlich)
@@ -161,3 +163,4 @@
 [1175553730733678693] twix.twix.twix (der_grosze_twix)
 [1183383295141105684] bitcoinbaba_01883 (bitcoinbaba)
 [1268494983812481034] malle_ritze
+[1272473416741552150] ANGRYGERMAN (maximus.germanikus)
