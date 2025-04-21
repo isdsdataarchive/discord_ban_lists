@@ -68,6 +68,7 @@
 [522502076241281027} Felinana#7596 (felinana)
 [530563217236295680] isweazer2055 (am1r_o)
 [534082412569821204] superbeischlafdiebin#0 (superbeischlafdiebin)
+[551197861719834625] rudiausbuddelnundritaausweiden
 [563796278929260554] Nic3N00b#8945 (nic3n00b)
 [564375478484467732] realwurschtbrot (realwurstbrot)
 [579741464272044047] zeelin24#5180 (zelin24, zeelin24)
@@ -105,6 +106,7 @@
 [778423892644855819] Rosinenbomber#3985
 [781579395747020870] Hagen Kreutz#1425
 [790914237798678538] g'sette / kasette#2439
+[790914237798678538] kasette7b
 [791381977550291004] arthursumpex#8318 (arthursumpex)
 [791650588210233394] Thaihandel#2645
 [809118372230201394] Klonter77 von Planet77#1348 (klonter77vonplanet77)
